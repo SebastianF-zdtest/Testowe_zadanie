@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 
-    //****************Zadanie 1
+    //****************Zadanie 1*************
 
     int n;
 
