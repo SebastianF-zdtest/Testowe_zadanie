@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"Sebastian Faldrowicz - 150962";
 
     //****************Zadanie 1
 
